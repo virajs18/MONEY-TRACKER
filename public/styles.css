@@ -12,13 +12,13 @@ body {
   }
   
   h1,h2{
-    color: white;
+    color: #000000;
   }
 
   label {
     display: block;
     margin-bottom: 8px;
-    color: white; /* Use #FFDFB9 for all labels */
+    color: #000000; /* Use #FFDFB9 for all labels */
   }
   button[type="submit"] {
     background-color: gray;
